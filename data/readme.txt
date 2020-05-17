@@ -1,1 +1,1 @@
-The file for traing and test dataset.
+The file for training and test dataset.
