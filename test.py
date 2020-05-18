@@ -10,7 +10,6 @@ Usage:
 Options:
   -h --help     Show this help.
   <dataset>     Dataset folder
-  <ckpt>        这个工程主要用来证明第一层卷积网络为128时可以达到99.75%的精度
 """
 
 import matplotlib.pyplot as plt
