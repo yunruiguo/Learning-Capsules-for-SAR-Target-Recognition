@@ -4,7 +4,6 @@
 import numpy as np
 from model_base import ModelBase
 from caps_net import conv_caps_layer, fully_connected_caps_layer
-from cross_loss import get_center_loss
 import tensorflow as tf
 
 
